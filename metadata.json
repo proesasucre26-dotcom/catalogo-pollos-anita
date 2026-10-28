@@ -1,0 +1,6 @@
+{
+  "name": "Pollos Anita - Menú Digital & Delivery",
+  "description": "Catálogo digital oficial y sistema de pedidos a domicilio vía WhatsApp para la pollería tradicional Pollos Anita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
